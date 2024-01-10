@@ -1,7 +1,7 @@
-# JACKSLURR-MERCHANTS-DASHBOARD
+# JACKSLURR-MERCHANTS`-DASHBOARD
 This power Bi project shows analysis of sales, employees, customers and shipping and how all of these have affected employee-customer relationship.
 
-## Overview
+## OVERVIEW
 This data analysis project aims at exploring the relationship between employees and their customers while examining properly the sales trend, sales performance of products, the company`s return (Revenue and profit) as well as their services rendered through deliveries and shipping of these products. The JACKSLURR traders analysis is a power BI based project through which we will gain insights that shall cover extensively four areas:
 
 1) Sales
@@ -11,7 +11,7 @@ This data analysis project aims at exploring the relationship between employees 
    
 To properly do this, we will perform data cleaning, and appropriate use of power query editor. We shall explore data analysis functions (DAX) to get our KPIs and other definitive analysis to help us gain more insights.
 
-Introduction
+## INTRODUCTION
 By analyzing the datasets related to the Jackslurr traders which covers information of their sales, products, customers, workers and shipping, we shall answer the following basic questions:
 
 ## SALES
@@ -45,4 +45,95 @@ However, in the course of this analysis, I was able to ask deeper questions outs
 
 My goal is that by the completion of this project, we must have had a detailed understanding of the jackslurr traders employee`s behavior in relation to their customers, the overall shipping service as well and how this has affected the sales of the company. The result of our analysis could help the company know the customers to focus on, what category of products to enhance, what shipping company to prioritize, what employee to promote and those to encourage and then how best to optimize the general service it renders.
 The project could also provide valuable insights for entrepreneurs, business organizations, and managers to devise strategies for sustainable business management and enhance worker-customer relationship.
+
+## I demonstrated the following skills in this project:
+- Data cleaning
+- Dax
+- Modelling
+- Buttons
+- Page navigation
+- Data visualization,
+- Measures,
+- Filters
+- Tooltips,
+- Critical thinking,
+- Problem solving.
+  
+I obtained the data by downloading the csv file from my drive and then imported into my power BI desktop. The data is a sample data of a public available datasets on company sales. Thus, ***This dataset and report do not represent any real organization; they are simply a demostration of my proficiency in the use of power BI.*** The dataset has seven (7) tables providing data of :
+products of the company; categories of these products, orders and all its details; employee details and details of shipping and deliveries all of which ranged from the year 2013 to 2015.
+
+## DATA TRANSFORMATION/CLEANING
+The dataset I worked with did not really require much cleaning, so I first checked for null values and empty columns, I found an empty column in the “report to” column of the “Employee” table so I replaced it with the average of the values of the column 
+
+**Some other Cleanings include:**
+- Making first role Headers
+- Changing Data Types
+- Renamed columns
+- Replaced values
+
+I also proceeded to inserting new columns like sales, profit, actual waiting days and delivery status. for effective analysis, I Merged the orders table with the customer table and named it “Merge 2”.
+
+## DATA MODELLING
+Since I had to work with many tables and consequent on the fact that I merged two tables into one new table, I had to model my data, which I did correspondingly. Ensuring that each table was modelled rightly.
+
+
+**Below are the KPIs for this analysis.**
+1) Total Revenue
+2)	Average Revenue
+3)	Count of sales
+4)	Number of customers
+5)	Total discount
+6)	Number of employees
+7)	Average shipping days
+8)	Total orders placed
+9)	Quantity ordered
+10) Sum of freight
+11) Number of products
+
+
+After this, I proceeded to analyzing my data.
+Analysis and problem solving.
+I analyzed the data step by step according to the questions and aim of my analysis. However, outside the basic questions which my analysis covered, we shall discover that some other questions where answered.
+
+
+**In the first analysis**, i.e the sales dashboard We can find out that the profit rose in 2014 and fell greatly in 2015, this is most likely to be as a result of the decline in sales in 2015. The year 2015 recorded a total sales of 691 as against 1059 sales that was made the previous year. 
+The result of this drop in sales is surely a reaction of customers dissatisfaction. Moving further however, we shall throw more light on this.
+
+Another very evident fact is that the highest sales by month was recorded in April but fell drastically the following months especially in June before it started picking up again.
+
+**The dashboard is an interactive one and so further findings can be explored.**  [click here to interact with the dashboard](https://bit.ly/3tOMO97)
+
+**In the employees dashboard**, we see that some employees distinguished themselves. Very evident is that Margaret Peacock stands as the best employee. This is because she attended to customers the most (75), sold the highest number of products and even generated the highest revenue for the company. However, it is important also to note that there were times she delivered products late (10 times) and there were times she never delivered at all (5 times).
+
+From the analysis, the worst employers has to be between Michael Suyama and Steven Buchanan. This is because they generate the least revenue for the company. Although Michael Suyama attended to more customers (43) than Anne Dodsworth who attended to only 29 customers just as Steven Buchanan.  But then, Anne Dodsworth generated more revenue for the company. However, credit should be given to Steven Buchanan who despite generating the least revenue has had only one (1) late delivery.
+
+**In the third dashboard “Customers”**, we notice that the three (3) customers that generate the highest revenue for the company are same customers making the highest orders. This could be the reason why all three customers have the highest discounts when compared with other customers.
+Notably, one amongst these “best” customers Roland Mendel didn`t get some of his products delivered to him on two occasions.
+
+**In the fourth dashboard** that analyzes all about shipping and orders, we see that it takes on average, 8 days for ordered products to be shipped and Thursday happens to be the worst day for shipping products.
+Very importantly is the fact that the only time the company failed to ship products ordered was in 2015, specifically in the months of April and May.
+
+
+## RECOMMENDATIONS AND CONCLUSIONS 
+
+- From our analysis, it is clear that there was a great fall in sales in the year 2015, this as we know resulted from the poor delivery and shipping service  which was recorded that year. It is a thing of concern that despite the fact that the company holds a good record in delivering products even  early, the little slack in failing to deliver products only 21 times had such a great impact in its sales. To this, **I will recommend that the company optimizes her shipping strategies to make sure that every product is delivered.**
+- The month of July recorded the highest sales which was immediately followed by reoccurring low sales. This also is an indication of customer dissatisfaction. The worry however is in the fact that the sales never rose again even till December. This is an indication that the company never took time to make analysis of their sales all through. **I thus recommend a monthly review and corresponding analysis of the company`s data to help the company understand customer behavior and sales pattern.**
+  
+- I observed that one Employee (Margaret Peacock) distinguished herself very positively. **I recommend that she be awarded for her relentless services. An increment in her salary would go along way to encourage her and motivate other employees.**
+  
+- Moving further **I would also recommend that employees be shown gratitude at the end of the year. However, it should be with respect to how well they have served the company. This would facilitate healthy competition among the workers so the gap between the best and the worst worker wouldn`t be much as seen in the case of Margaret Peacock and Steven Buchanan, where Margaret attended to customers 75 times and Steven just 29 times.**
+
+- On the other hand, the customers who generated the least revenue to the company shouldn`t totally be condemned. They should be encouraged though to work harder. **I recommend thus that the company sets up a board to process employees’ feedback to help attend to the needs of employees so as to aid them serve the company better.**
+**I also recommend that employees who fail to deliver orders of product to customers be held accountable for it. That is if all needed for the delivery was provided by the company beforehand, else the company should be culpable. This is however a matter to be treated as an inner affair.**
+
+- I observed that Roland Mendel who happens to be one of the best customers of the company ordered the highest number of products, but yet did not generate the highest revenue for the company. This could be that the products he ordered were not as expensive as others who ordered lesser products but generated more revenue. It could also be that he did not generate the highest revenue for the company because some of his products were not delivered as could be seen in our dashboard. This means that when products are not delivered, they affect the customers and also affect the revenue of the company.  **I recommend then that the company makes it up to all the customers whose products were not delivered and that such would not happen again.**
+
+- I observed that the only time products were not delivered was in 2015 and this happened only in April and May. April recorded the highest sales but sales began to decline from the following month.  “United package” despite being the company with the highest number of shipping, failed to ship ordered products 11 times, which is the highest any shipping company ever had. **I recommend thus that shipping companies intensifies its services especially during the rainy seasons.**
+  
+- Lastly, Outside the fact that the dataset worked on was from January 2013 to may 2015, we still see that decline in sales resulted  greatly from the bad service which was registered in 2015. **I recommend then that Employee-customer relationship be improved, so that employees while maintaining formality in their services, can also become friends (informally) with the customers.** This would help them reach out more friendly to customers whose products were not delivered and sort things out to avoid chasing customers.
+
+### Thanks for Reading......
+
+
+
 

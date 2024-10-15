@@ -109,7 +109,7 @@ Another very evident fact is that the highest sales by month was recorded in Apr
 ![Sales by month](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/5d35cdd2-8959-4848-b9bb-6e050eed6211)
 
 
-**The dashboard is an interactive one and so further findings can be explored.**  [click here to interact with the dashboard](https://bit.ly/3tOMO97)
+**The dashboard is an interactive one and so further findings can be explored.**  [click here to interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmRkNzUxZWItYzBhZi00Y2RhLTlmODgtNjIwODIzNjJjN2ZiIiwidCI6ImY4NzNhMzA5LTg2ZjgtNDg4OS05OTcxLTEzMDQwNDM0NjZmNCJ9)
 
 **In the employees dashboard**, we see that some employees distinguished themselves. Very evident is that Margaret Peacock stands as the best employee.
 ![Number of customers attended to](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/9eb2d00c-8346-4153-9067-c77eb5fab82d)

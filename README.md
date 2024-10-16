@@ -6,7 +6,7 @@ This power Bi project shows analysis of sales, employees, customers and shipping
 
 ## OVERVIEW
 This data analysis project aims at exploring the relationship between employees and their customers while examining properly the sales trend, sales performance of products, the company`s return (Revenue and profit) as well as their services rendered through deliveries and shipping of these products. The JACKSLURR traders analysis is a power BI based project through which we will gain insights that shall cover extensively four areas:
-
+ 
 1) Sales
 2) Employee performance
 3) Customer information

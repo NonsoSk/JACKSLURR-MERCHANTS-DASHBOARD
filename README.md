@@ -1,5 +1,5 @@
 # JACKSLURR-MERCHANTS`-DASHBOARD
-This power Bi project shows analysis of sales, employees, customers and shipping and how all of these have affected employee-customer relationship.
+This power Bi project shows analysis of sales, employees, customers and shipping and how all of these have affected employee-customer relationship. 
 
 ![pexels-pixabay-48820](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/61b9678d-017d-4e46-b560-b170e506661e)
 

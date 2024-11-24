@@ -77,8 +77,7 @@ The dataset I worked with did not really require much cleaning, so I first check
 I also proceeded to inserting new columns like sales, profit, actual waiting days and delivery status. for effective analysis, I Merged the orders table with the customer table and named it “Merge 2”.
 
 ## DATA MODELLING
-Since I had to work with many tables and consequent on the fact that I merged two tables into one new table, I had to model my data, which I did correspondingly. Ensuring that each table was modelled rightly.
-
+I ensured that my tables were modelled rightly for proper analysis.
 
 **Below are the KPIs for this analysis.**
 1) Total Revenue

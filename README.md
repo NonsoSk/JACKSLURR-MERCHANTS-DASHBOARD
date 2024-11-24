@@ -99,9 +99,11 @@ I analyzed the data step by step according to the questions and aim of my analys
 
 
 **In the first analysis**,
+
 <img width="737" alt="Jackslurr sales" src="https://github.com/user-attachments/assets/b4c22cb0-f5fb-4d69-8f19-2e4415367947">
 
 The sales dashboard We can find out that the profit rose in 2014 and fell greatly in 2015 as seen here
+
 ![Profit by year](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/78af9918-3f4c-4e77-8682-1a8b3a20d41d)
 This is most likely to be as a result of the decline in sales in 2015. The year 2015 recorded a total sales of 691 as against 1059 sales that was made the previous year. 
 The result of this drop in sales is surely a reaction of customers dissatisfaction. Moving further however, we shall throw more light on this.
@@ -111,12 +113,16 @@ Another very evident fact is that the highest sales by month was recorded in Apr
 ![Sales by month](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/5d35cdd2-8959-4848-b9bb-6e050eed6211)
 
 
-**The dashboard is an interactive one and so further findings can be explored.**  [click here to interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmRkNzUxZWItYzBhZi00Y2RhLTlmODgtNjIwODIzNjJjN2ZiIiwidCI6ImY4NzNhMzA5LTg2ZjgtNDg4OS05OTcxLTEzMDQwNDM0NjZmNCJ9)
+**The dashboard is an interactive one and so further findings can be explored.** 
+
+[click here to interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmRkNzUxZWItYzBhZi00Y2RhLTlmODgtNjIwODIzNjJjN2ZiIiwidCI6ImY4NzNhMzA5LTg2ZjgtNDg4OS05OTcxLTEzMDQwNDM0NjZmNCJ9)
 
 **In the employees dashboard**,
+
 <img width="650" alt="Jackslurr Employees" src="https://github.com/user-attachments/assets/a3bb2542-3f01-4e98-98c2-fd64b8be07a7">
 
-we see that some employees distinguished themselves. Very evident is that Margaret Peacock stands as the best employee.
+we see that some employees distinguished themselves. Very evident is that **Margaret Peacock** stands as the best employee.
+
 ![Number of customers attended to](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/9eb2d00c-8346-4153-9067-c77eb5fab82d)
 
 ![Employee with highest sales](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/c4151057-3fa4-406e-9e86-d87f9f91b45b)
@@ -126,27 +132,34 @@ we see that some employees distinguished themselves. Very evident is that Margar
 As we can see above, she attended to the most customers (75), sold the highest number of products and even generated the highest revenue for the company. However, it is important also to note that there were times she delivered products late (10 times) and there were times she never delivered at all (5 times).
 
 From the analysis, the worst employers has to be between Michael Suyama and Steven Buchanan. 
+
 ![Employee with lowest revenue](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/76280b8e-2f2a-48e3-97fb-9965a937f9ac)
 
 This is because they generate the least revenue for the company. Although Michael Suyama attended to more customers (43) than Anne Dodsworth who attended to only 29 customers just as Steven Buchanan.  But then, Anne Dodsworth generated more revenue for the company. However, credit should be given to Steven Buchanan who despite generating the least revenue has had only one (1) late delivery.
 
 **In the third dashboard “Customers”**,
+
 <img width="658" alt="Jackslurr Customer" src="https://github.com/user-attachments/assets/493d1e01-2c3a-4de0-b31e-3215e943c1d8">
 
 We notice that the three (3) customers that generate the highest revenue for the company are same customers making the highest orders. This could be the reason why all three customers have the highest discounts when compared with other customers.
 the image below explains better
+
 ![Customers with highest orders](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/530da9e4-b805-448d-951e-171e110be091)
 
 ![Customer and discount value](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/0c3cd04c-5fbc-4756-ba25-e7b5f2acc21c)
 
 Notably, one amongst these “best” customers Roland Mendel didn`t get some of his products delivered to him on two occasions as shown below:
+
 ![Customers with underlivered products](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/f3a8cec2-3634-4739-b9f1-58156ace1a54)
 
 
 **In the fourth dashboard** 
+
 <img width="651" alt="Jackslurr 1" src="https://github.com/user-attachments/assets/9293600d-ba5d-4e80-a9dd-e842097ffcaf">
 
 This analyzes all about shipping and orders, we see that it takes on average, 8 days for ordered products to be shipped and Thursday happens to be the worst day for shipping products as indicated in our visual:
+
+
 ![Quantity delivered by working days](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/f38e04de-1f6b-42ba-9df4-f7a964620344)
 
 Very importantly is the fact that the only time the company failed to ship products ordered was in 2015, specifically in the months of April and May.

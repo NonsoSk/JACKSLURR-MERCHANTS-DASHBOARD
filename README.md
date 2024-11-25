@@ -98,13 +98,14 @@ Analysis and problem solving.
 I analyzed the data step by step according to the questions and aim of my analysis. However, outside the basic questions which my analysis covered, we shall discover that some other questions where answered.
 
 
-**In the first analysis**,
+**Our first analysis**, is on the **The sales dashboard**
 
 <img width="737" alt="Jackslurr sales" src="https://github.com/user-attachments/assets/b4c22cb0-f5fb-4d69-8f19-2e4415367947">
 
-The sales dashboard We can find out that the profit rose in 2014 and fell greatly in 2015 as seen here
+ Notice that the profit rose in 2014 and fell greatly in 2015 as seen here:
 
 ![Profit by year](https://github.com/NonsoSk/JACKSLURR-MERCHANTS-DASHBOARD/assets/147613828/78af9918-3f4c-4e77-8682-1a8b3a20d41d)
+
 This is most likely to be as a result of the decline in sales in 2015. The year 2015 recorded a total sales of 691 as against 1059 sales that was made the previous year. 
 The result of this drop in sales is surely a reaction of customers dissatisfaction. Moving further however, we shall throw more light on this.
 
